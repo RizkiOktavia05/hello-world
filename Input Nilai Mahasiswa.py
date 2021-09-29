@@ -3,6 +3,7 @@
 
 # In[1]:
 
+#Input Nilai Mahasiswa
 
 nama_file = str(input('input nama fle : '))
 daftar_nama_mhs  = []
